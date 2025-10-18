@@ -1,3 +1,7 @@
-# Lista de estudiantes
+# Diplomado UX / UI
 
 Profesor: Andrés Bedoya
+
+## Participantes
+
+- David Gutierrez
