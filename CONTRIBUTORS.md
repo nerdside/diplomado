@@ -6,3 +6,4 @@ Profesor: Andrés Bedoya
 
 - David Gutierrez
 - Isabela Ceballos
+- Alejandro Ramirez
